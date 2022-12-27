@@ -1,0 +1,15 @@
+.wrapper {
+    height: 1400px;
+    margin: 5px;
+    background-color: rgb(192, 226, 43);
+}
+
+.title {
+    text-align: center;
+    color: rgb(0, 0, 255);
+    background-color: rgb(175, 121, 121);
+}
+
+.turtle {
+    background-color: coral;
+}

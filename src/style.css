@@ -11,5 +11,15 @@
 }
 
 .turtle {
-    background-color: coral;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 0 50px 20px #00f;
 }

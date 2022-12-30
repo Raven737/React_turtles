@@ -1,8 +1,8 @@
-const AppItem = ({ name, description, Image, img, alt }) => (
+const AppItem = ({ name, getItemDescription, Image, nickName, weapon }) => (
     <>
         <h2>{name}</h2>
-        <Image srcUrl={img} altImg={alt} />
-        <p>{description}</p>
+        {Image}
+        {getItemDescription(nickName, weapon)}
     </>
 );
 

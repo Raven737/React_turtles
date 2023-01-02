@@ -1,8 +1,8 @@
 import AppWrapper from './AppWrapper';
 import AppItem from './AppItem';
 import Image from './Image';
-import turtles from './constants';
-import getItemDescription from './utils';
+import turtles from '../scripts/constants';
+import getItemDescription from '../scripts/utils';
 
 const App = () => (
     <AppWrapper title="React Turtles">

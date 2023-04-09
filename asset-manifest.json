@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_turtles/static/css/main.59794a0d.css",
+    "main.js": "/React_turtles/static/js/main.5f836bde.js",
+    "index.html": "/React_turtles/index.html",
+    "main.59794a0d.css.map": "/React_turtles/static/css/main.59794a0d.css.map",
+    "main.5f836bde.js.map": "/React_turtles/static/js/main.5f836bde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59794a0d.css",
+    "static/js/main.5f836bde.js"
+  ]
+}
